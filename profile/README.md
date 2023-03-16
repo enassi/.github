@@ -1,4 +1,4 @@
-# About encassi
+# About enassi
 
 Encassi is an encrypted note and attaches management tool.You can save your secret on your device or synchronize with cloud.
 
